@@ -1,0 +1,1 @@
+Server[@Name='IE-010-W3200M51\BD3IG2016']/Database[@Name='AdventureWorksDW2014']/DatabaseDiagram[@Name='SchémaOLTPReconstitué' and @OwnerID='1']

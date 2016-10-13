@@ -1,0 +1,1 @@
+dism  /online/enable-feature/featureName:Netfx3/all/limitaccess/source:c:\sxs
